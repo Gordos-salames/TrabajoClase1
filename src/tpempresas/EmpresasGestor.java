@@ -111,7 +111,7 @@ public class EmpresasGestor extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jPanel2.setBackground(new java.awt.Color(204, 204, 255));
+        jPanel2.setBackground(new java.awt.Color(204, 255, 204));
         jPanel2.setBorder(jPanel1.getBorder());
 
         jLabel1.setFont(new java.awt.Font("SansSerif", 1, 18)); // NOI18N
